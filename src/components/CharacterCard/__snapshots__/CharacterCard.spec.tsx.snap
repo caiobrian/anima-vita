@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CharacterCard should render correctly 1`] = `
+<div>
+  <div
+    class="sc-gsDKAQ jdiYNr"
+  >
+    <div
+      class="sc-bdvvtL eizJli"
+    >
+      <div
+        class="sc-dkPtRN sc-hKwDye bYWgbM kvxXbG"
+        data-testid="character-card-front"
+      >
+        <h2
+          data-testid="character-card-name"
+        />
+        <p />
+      </div>
+      <div
+        class="sc-dkPtRN sc-eCImPb bYWgbM kYagot"
+        data-testid="character-card-back"
+      >
+        <div
+          class="sc-jRQBWg leOgDK"
+        >
+          <h2
+            class="sc-gKclnd drgwOt"
+          >
+            Test Name
+          </h2>
+          <h3
+            class="sc-iCfMLu hhyEnO"
+            data-testid="character-othernames"
+          >
+            Also known as: Test Other Name 1, Test Other Name 2
+          </h3>
+          <p
+            class="sc-furwcr cBpvSA"
+          >
+            Test Description
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
