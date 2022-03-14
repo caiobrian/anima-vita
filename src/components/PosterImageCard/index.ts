@@ -1,0 +1,1 @@
+export { PosterImageCard } from './PosterImageCard'

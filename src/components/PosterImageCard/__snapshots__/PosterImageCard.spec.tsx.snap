@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PosterImageCard should render correctly 1`] = `
+<div>
+  <div
+    class="sc-dkPtRN cGRddX"
+  >
+    <img
+      class="sc-bdvvtL cYlnhX"
+    />
+    <h3
+      class="sc-gsDKAQ kbQVSH"
+    >
+      Anime Title
+    </h3>
+    <p
+      class="sc-hKwDye dLzRuZ"
+    >
+      8.6
+    </p>
+  </div>
+</div>
+`;
