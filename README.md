@@ -18,7 +18,7 @@ Foi utilizada a API da [Kitsu](https://kitsu.docs.apiary.io/#) para listagem de 
 - Prettier
 - Husky
 - Lint-staged
-
+- Editorconfig
 
 O projeto utiliza `yarn` mas também funciona com `npm`. 
 - `yarn` ou `npm install` para instalar dependências.
